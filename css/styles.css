@@ -1,14 +1,18 @@
-body{
-  background-color: lightblue;
+.tropical{
+  color: #f7325e;
+  font-family: fantasy;
 }
-h1{
-  font-size: 50px;
-  text-align: center;
-  color: green;
+
+p.tropical{
+  color: #7dc410;
 }
-h2{
-  text-align: center;
+ul > li{
+  color: yellow;
 }
-.class1{
+.popular{
+  color: blue;
   font-style: italic;
+}
+p.popular{
+  color: maroon;
 }
